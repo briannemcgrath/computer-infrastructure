@@ -10,8 +10,18 @@ Output current date and time to a file named now.txt using the date command into
 ### Task Three: Formatting Techniques
 Run the date command again to output a formatted timestamp in a new file named formatted.txt
 
+### Task Four: Create Timestamped Files
+Use the touch command to create an empty file with a name in the YYYTmmdd_HHMMSS format. 
+
+### Task Five: Download Today's Weather Data 
+Download the latest weather data for the Athenry weather station from Met Éireann and add to the data/weather directory. Saving file as weather.json
+
+### Task Six: Timestamp the Data
+Modify the command from Task Five to save the downloaded file with a timestamped name in the format YYYYmmdd_HHMMSS.json
+
 ###  References: 
 
-- https://stackoverflow.com/questions/51343185/create-new-directory-and-navigate-into-it-windows-cmd (Task One Creating Directory)
+- https://stackoverflow.com/questions/51343185/create-new-directory-and-navigate-into-it-windows-cmd (Creating Directory)
+- https://sanjaybali.wordpress.com/linux-date-formatting/ (Date Formatting in Linux)
 
 **by Brianne McGrath**
