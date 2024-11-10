@@ -23,5 +23,6 @@ Modify the command from Task Five to save the downloaded file with a timestamped
 
 - https://stackoverflow.com/questions/51343185/create-new-directory-and-navigate-into-it-windows-cmd (Creating Directory)
 - https://sanjaybali.wordpress.com/linux-date-formatting/ (Date Formatting in Linux)
+- https://www.datacamp.com/tutorial/how-to-write-bash-script-tutorial (Bash Script)
 
 **by Brianne McGrath**
