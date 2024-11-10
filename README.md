@@ -25,4 +25,6 @@ Modify the command from Task Five to save the downloaded file with a timestamped
 - https://sanjaybali.wordpress.com/linux-date-formatting/ (Date Formatting in Linux)
 - https://www.datacamp.com/tutorial/how-to-write-bash-script-tutorial (Bash Script)
 
+**Disclaimer:** Assignment was completed with the aid of ChatGPT for small tasks, such as minimal code assistance and troubleshooting. All main work and final edits were done independently. 
+
 **by Brianne McGrath**
