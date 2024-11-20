@@ -2,8 +2,7 @@ name: Weather Data
 
 on: 
   schedule: 
-    # Runs daily at 10:00AM UTC
-    - cron: '0 10 * * *'
+    - cron: '0 10 * * *'  # runs daily at 10:00AM UTC
   workflow_dispatch: 
 
 permissions: 
@@ -46,3 +45,4 @@ jobs:
           git add .
           git commit -m "Automated changes by weather.sh script" || echo "No changes to commit"
           git push origin main
+
