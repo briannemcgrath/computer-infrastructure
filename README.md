@@ -34,4 +34,5 @@ Use the `pandas` function `read_json()` to load in any one of the weather data f
 - https://www.datacamp.com/tutorial/how-to-write-bash-script-tutorial (Bash Script)
 
 **Disclaimer:** Assignment was completed with the aid of ChatGPT for small tasks, such as minimal code assistance and troubleshooting. All main work and final edits were done independently. 
+
 **by Brianne McGrath**
