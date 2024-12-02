@@ -11,7 +11,7 @@ The repository includes tasks such as creating directory structures, working wit
 
 ## **Prerequisites:**
 Before starting, ensure the following tools and libraries are installed: 
-- **Operating System:** Linux or macOS (Bash compatible). Or use GitHub terminal which is what I did. 
+- **Operating System:** Linux or macOS with Bash compatibility, or use the GitHub Codespace terminal (as I did). 
 - **Command-Line Tools:** Includes `date`, `touch`, and `wget`. 
 - **Python:** Version 3.6 or later. 
     - **Libraries:** `pandas` for data analysis. 
