@@ -37,7 +37,7 @@ Before starting, ensure the following tools and libraries are installed:
 - Download the latest weather data for the Athenry weather station from Met Éireann and add to the `data/weather` directory. Saving file as `weather.json`.
 
 ### Task 6: Timestamp the Data
-- Modify the command from Task Five to save the downloaded file with a timestamped name in the format `YYYYmmdd_HHMMSS.json`.
+- Modify the command from Task 5 to save the downloaded file with a timestamped name in the format `YYYYmmdd_HHMMSS.json`.
 
 ### Task 7: Write the Script
 - Write a bash script called `weather.sh` which will automate the process from Task 6, saving the weather data to the `data/weather` direcctory. 
@@ -46,7 +46,7 @@ Before starting, ensure the following tools and libraries are installed:
 - Create a notebook called [`weather.ipynb`](weather.ipynb) where we write a brief report explaining how we completed Tasks 1-7. 
 
 ### Task 9: pandas
-- Use the `pandas` function `read_json()` to load in any one of the weather data files you have downloaded with the script. Examine and summarise the data. 
+- Use the `pandas` function `read_json()` to load in any one of the weather data files we have downloaded with the script. Examine and summarise the data. 
 
 
 ## **Project Overview: Automated Weather Data Collection**
