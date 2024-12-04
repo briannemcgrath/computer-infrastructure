@@ -43,7 +43,7 @@ Before starting, ensure the following tools and libraries are installed:
 - Write a bash script called `weather.sh` which will automate the process from Task 6, saving the weather data to the `data/weather` direcctory. 
 
 ### Task 8: Notebook
-- Create a notebook called `weather.ipynb` where we write a brief report explaining how we completed Tasks 1-7. 
+- Create a notebook called [`weather.ipynb`](weather.ipynb) where we write a brief report explaining how we completed Tasks 1-7. 
 
 ### Task 9: pandas
 - Use the `pandas` function `read_json()` to load in any one of the weather data files you have downloaded with the script. Examine and summarise the data. 
