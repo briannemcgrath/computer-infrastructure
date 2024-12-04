@@ -70,6 +70,7 @@ This project builds upon the previou tasks by automating the `weather.sh` script
 - `.github/workflows/weather-data.yml`: Configures the GitHub Actions workflow for daily automation. 
 - `data/weather`: Contains all downloaded weather data files. 
 - `images`: Contains image used within assignment. 
+- `weather.ipynb`: Contains notebook with a brief report on how we completed Tasks 1-7 and performs a small summary using `pandas`. 
 
 
 ##  **References:** 
