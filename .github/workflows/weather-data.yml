@@ -26,9 +26,11 @@ jobs:
           which touch || echo "touch command missing"
           which wget || echo "wget command missing" 
 
-      #Step three:               
+      # Step three: install wget               
       - name: Install wget
-        run: sudo apt-get update && sudo apt -get install -y wget
+        run: |
+            sudo apt-get update 
+            sudo apt -get install -y wget
 
       # Step four: run the script
       - name: Run weather.sh script
