@@ -2,7 +2,7 @@ name: Weather Data
 
 on: 
   schedule: 
-    - cron: '0 10 * * *'  # runs daily at 10:00AM UTC
+    - cron: '0 12 * * *'  # runs daily at 12:00PM UTC
   workflow_dispatch: 
 
 permissions: 
