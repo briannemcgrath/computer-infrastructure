@@ -1,9 +1,9 @@
 name: Weather Data 
 
-on: 
-  schedule: 
-    - cron: '0 12 * * *'  # runs daily at 12:00PM UTC
-  workflow_dispatch: 
+#on: 
+  #schedule: 
+    #- cron: '0 12 * * *'  # runs daily at 12:00PM UTC
+  #workflow_dispatch: 
 
 permissions: 
   contents: write  # grants write permissions to push changes 
